@@ -1,0 +1,25 @@
+{
+  "name": "vr-frontend",
+  "version": "1.0.0",
+  "description": "Teste QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bms-hub/VR-frontend.git"
+  },
+  "keywords": [
+    "VR-frontend"
+  ],
+  "author": "Bruno Silveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bms-hub/VR-frontend/issues"
+  },
+  "homepage": "https://github.com/bms-hub/VR-frontend#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
