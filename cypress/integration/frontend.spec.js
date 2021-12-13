@@ -3,7 +3,6 @@
 describe("Maps validation", ()=> {
     //Mesmo sendo somente um teste, utilizei o beforeEach para indicar uma boa prática
     beforeEach(() => {
-        cy.viewport(1440,900)
         cy.visit('https://www.vr.com.br/')
     })
 
